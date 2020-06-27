@@ -1,0 +1,12 @@
+{
+    "name": "banned word game",
+    "version": "1.0.0",
+    "description": "This is supposed to be some sort of replication of the banned word game",
+    "main": "app.js",
+    "scripts": {},
+    "author": "Matthew",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.19.0"
+    }
+}
